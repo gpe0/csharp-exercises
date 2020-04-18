@@ -1,0 +1,13 @@
+C:\Users\Vítor\Documents\GitHub\csharp-exercises\exercises\ex004\ex004\bin\Debug\netcoreapp3.1\ex004.exe
+C:\Users\Vítor\Documents\GitHub\csharp-exercises\exercises\ex004\ex004\bin\Debug\netcoreapp3.1\ex004.deps.json
+C:\Users\Vítor\Documents\GitHub\csharp-exercises\exercises\ex004\ex004\bin\Debug\netcoreapp3.1\ex004.runtimeconfig.json
+C:\Users\Vítor\Documents\GitHub\csharp-exercises\exercises\ex004\ex004\bin\Debug\netcoreapp3.1\ex004.runtimeconfig.dev.json
+C:\Users\Vítor\Documents\GitHub\csharp-exercises\exercises\ex004\ex004\bin\Debug\netcoreapp3.1\ex004.dll
+C:\Users\Vítor\Documents\GitHub\csharp-exercises\exercises\ex004\ex004\bin\Debug\netcoreapp3.1\ex004.pdb
+C:\Users\Vítor\Documents\GitHub\csharp-exercises\exercises\ex004\ex004\obj\Debug\netcoreapp3.1\ex004.csprojAssemblyReference.cache
+C:\Users\Vítor\Documents\GitHub\csharp-exercises\exercises\ex004\ex004\obj\Debug\netcoreapp3.1\ex004.csproj.CoreCompileInputs.cache
+C:\Users\Vítor\Documents\GitHub\csharp-exercises\exercises\ex004\ex004\obj\Debug\netcoreapp3.1\ex004.AssemblyInfoInputs.cache
+C:\Users\Vítor\Documents\GitHub\csharp-exercises\exercises\ex004\ex004\obj\Debug\netcoreapp3.1\ex004.AssemblyInfo.cs
+C:\Users\Vítor\Documents\GitHub\csharp-exercises\exercises\ex004\ex004\obj\Debug\netcoreapp3.1\ex004.dll
+C:\Users\Vítor\Documents\GitHub\csharp-exercises\exercises\ex004\ex004\obj\Debug\netcoreapp3.1\ex004.pdb
+C:\Users\Vítor\Documents\GitHub\csharp-exercises\exercises\ex004\ex004\obj\Debug\netcoreapp3.1\ex004.genruntimeconfig.cache
