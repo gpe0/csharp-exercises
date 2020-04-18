@@ -1,7 +1,7 @@
-# **c# exercises**
+# **c# console exercises**
 Hi, this is my **c# exercises repository**.
 ---
-Here you can find exercises from the really basics to some more complicated things. (Not done yet!)
+Here you can find console exercises from the really basics to some more complicated things. (Not done yet!)
 
 If you enjoy don't forget to follow me.
 
