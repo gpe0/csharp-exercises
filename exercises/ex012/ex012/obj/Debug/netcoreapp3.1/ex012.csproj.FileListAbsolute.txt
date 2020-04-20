@@ -1,0 +1,13 @@
+D:\PROJECTS\csharp-exercises\exercises\ex012\ex012\bin\Debug\netcoreapp3.1\ex012.exe
+D:\PROJECTS\csharp-exercises\exercises\ex012\ex012\bin\Debug\netcoreapp3.1\ex012.deps.json
+D:\PROJECTS\csharp-exercises\exercises\ex012\ex012\bin\Debug\netcoreapp3.1\ex012.runtimeconfig.json
+D:\PROJECTS\csharp-exercises\exercises\ex012\ex012\bin\Debug\netcoreapp3.1\ex012.runtimeconfig.dev.json
+D:\PROJECTS\csharp-exercises\exercises\ex012\ex012\bin\Debug\netcoreapp3.1\ex012.dll
+D:\PROJECTS\csharp-exercises\exercises\ex012\ex012\bin\Debug\netcoreapp3.1\ex012.pdb
+D:\PROJECTS\csharp-exercises\exercises\ex012\ex012\obj\Debug\netcoreapp3.1\ex012.csprojAssemblyReference.cache
+D:\PROJECTS\csharp-exercises\exercises\ex012\ex012\obj\Debug\netcoreapp3.1\ex012.csproj.CoreCompileInputs.cache
+D:\PROJECTS\csharp-exercises\exercises\ex012\ex012\obj\Debug\netcoreapp3.1\ex012.AssemblyInfoInputs.cache
+D:\PROJECTS\csharp-exercises\exercises\ex012\ex012\obj\Debug\netcoreapp3.1\ex012.AssemblyInfo.cs
+D:\PROJECTS\csharp-exercises\exercises\ex012\ex012\obj\Debug\netcoreapp3.1\ex012.dll
+D:\PROJECTS\csharp-exercises\exercises\ex012\ex012\obj\Debug\netcoreapp3.1\ex012.pdb
+D:\PROJECTS\csharp-exercises\exercises\ex012\ex012\obj\Debug\netcoreapp3.1\ex012.genruntimeconfig.cache
