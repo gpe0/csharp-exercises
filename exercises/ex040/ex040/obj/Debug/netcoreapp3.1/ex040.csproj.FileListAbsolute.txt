@@ -1,0 +1,13 @@
+D:\PROJECTS\csharp-exercises\exercises\ex040\ex040\bin\Debug\netcoreapp3.1\ex040.exe
+D:\PROJECTS\csharp-exercises\exercises\ex040\ex040\bin\Debug\netcoreapp3.1\ex040.deps.json
+D:\PROJECTS\csharp-exercises\exercises\ex040\ex040\bin\Debug\netcoreapp3.1\ex040.runtimeconfig.json
+D:\PROJECTS\csharp-exercises\exercises\ex040\ex040\bin\Debug\netcoreapp3.1\ex040.runtimeconfig.dev.json
+D:\PROJECTS\csharp-exercises\exercises\ex040\ex040\bin\Debug\netcoreapp3.1\ex040.dll
+D:\PROJECTS\csharp-exercises\exercises\ex040\ex040\bin\Debug\netcoreapp3.1\ex040.pdb
+D:\PROJECTS\csharp-exercises\exercises\ex040\ex040\obj\Debug\netcoreapp3.1\ex040.csprojAssemblyReference.cache
+D:\PROJECTS\csharp-exercises\exercises\ex040\ex040\obj\Debug\netcoreapp3.1\ex040.csproj.CoreCompileInputs.cache
+D:\PROJECTS\csharp-exercises\exercises\ex040\ex040\obj\Debug\netcoreapp3.1\ex040.AssemblyInfoInputs.cache
+D:\PROJECTS\csharp-exercises\exercises\ex040\ex040\obj\Debug\netcoreapp3.1\ex040.AssemblyInfo.cs
+D:\PROJECTS\csharp-exercises\exercises\ex040\ex040\obj\Debug\netcoreapp3.1\ex040.dll
+D:\PROJECTS\csharp-exercises\exercises\ex040\ex040\obj\Debug\netcoreapp3.1\ex040.pdb
+D:\PROJECTS\csharp-exercises\exercises\ex040\ex040\obj\Debug\netcoreapp3.1\ex040.genruntimeconfig.cache
